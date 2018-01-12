@@ -6,6 +6,4 @@ git status
 git add
 git commit
 ```
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png =250x)
-
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Todsakarn" style="width: 200px;">
