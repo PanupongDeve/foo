@@ -1,5 +1,9 @@
 # foo
 foo project
 
-# Sirawich Thank you
+```
+git status
+git add
+git commit
+```
 
