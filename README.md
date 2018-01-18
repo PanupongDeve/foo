@@ -3,7 +3,7 @@
 
 | คำสั่ง       |  คำอธิบาย          | ตัวอย่าง  |
 |:-------------:|:-------------:|:-----:|
-| git init       |เริ่มต้นสร้างgithub บนเครื่อง | git ini|
+| git init       |เริ่มต้นสร้างgithub บนเครื่อง | git init|
 | git remote add (local) (host) | เป็นคำสั่งให้git ของ local และ host รู้จักกัน      |   git remote add origin https://github.com/PanupongDave/laravel.git |
 | git add    | เพิ่มไฟล์ที่เขียนใหม่    |   git add. หรือ  git add test.txt |
 | git commit | ยืนยันข้อมูลก่อนส่งไฟล์      |    git commit -m "first commit" |
